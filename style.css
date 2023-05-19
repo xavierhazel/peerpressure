@@ -38,13 +38,14 @@
    font-size: 17px;
  }
 
- .navbar a:hover {
-   background-color: #FF3030;
- }
+ 
+li a:hover {
+  background-color: #00BF63;
+}
 
- .active {
-   background-color: #5271FF;
- }
+li a:active{
+	background-color: #5E17EB;
+}
 
 .navbar {
   width: 100%;
@@ -58,14 +59,6 @@
   color: white;
   text-decoration: none;
   font-size: 17px;
-}
-
-.navbar a:hover {
-  background-color: #FF3030;
-}
-
-.active {
-  background-color: white;
 }
 
 body {
