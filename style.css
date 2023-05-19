@@ -53,7 +53,11 @@ li a:active{
   overflow: auto;
 }
 
-
+.current {
+	background-color: #5E17EB;
+	color: black
+}		
+	
 
 body {
   background-color: white;
