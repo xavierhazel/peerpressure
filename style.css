@@ -65,11 +65,11 @@
 }
 
 .active {
-  background-color: #5271FF;
+  background-color: white;
 }
 
 body {
-  background-color: white;
+  background-color: black;
 }
 h1   {
   color: #5E17EB;
