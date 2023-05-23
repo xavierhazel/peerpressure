@@ -72,6 +72,13 @@ h2	 {
   color: #00BF63;
 }
 
+.flex-container {
+    display: flex;
+}
 
+.flex-child {
+    flex: 1;
+    
+}  
 
 
